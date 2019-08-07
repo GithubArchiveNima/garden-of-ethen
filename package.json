@@ -1,0 +1,22 @@
+{
+  "name": "garden-of-ethen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "node-sass": "^4.12.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-modal": "^3.9.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "cssnano": "^4.1.10"
+  }
+}
